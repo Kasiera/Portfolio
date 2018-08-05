@@ -1,6 +1,6 @@
-# {Application Name}
-#### {Brief description of application}, {Date of current version}
-#### By **{List of contributors}**
+# {My Portfolio}
+#### {This is a brief portfolio as created by Samuel Kasiera with the guidance of my peer partners and technical mentors. This summarizes my one week's learning curve at Moringa School. }, {04 August, 2018}
+#### By **{Samuel Kasiera}**
 ## Description
 {This is a detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }
 ## Setup/Installation Requirements
